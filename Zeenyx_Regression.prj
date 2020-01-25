@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
-   <description></description>
-   <name>zeenyxGitHubTest1</name>
+   <description>Provide credentials in Zeenyx InfoRequest page  </description>
+   <name>Zeenyx_Regression</name>
    <tag></tag>
-   <UUID>b2f237a9-3fb2-4a84-8000-470239a08e0c</UUID>
+   <UUID>65bcb402-9958-4862-a1af-2b18d00557e9</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>E:\Katalon_Pjts\Zeenyx_Regression\Zeenyx_Regression.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -24,5 +25,5 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
-   <type>GENERIC</type>
+   <type>WEBUI</type>
 </Project>

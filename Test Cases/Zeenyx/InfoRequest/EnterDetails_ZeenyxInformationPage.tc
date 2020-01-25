@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enter details in Zeenyx information page</description>
+   <name>EnterDetails_ZeenyxInformationPage</name>
+   <tag>Nagarjuna, Hemavathi, Vidya</tag>
+   <comment></comment>
+   <testCaseGuid>b2e13e29-d869-414f-b37d-596c74fde291</testCaseGuid>
+   <variable>
+      <defaultValue>'Nagarjuna'</defaultValue>
+      <description></description>
+      <id>c34f4ab6-ffa1-47ce-a046-9e6fd7925056</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Napa'</defaultValue>
+      <description></description>
+      <id>93657e1e-6436-418f-9574-883cf02a8e77</id>
+      <masked>false</masked>
+      <name>SecondName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Matryxsoft'</defaultValue>
+      <description></description>
+      <id>2c644782-47b9-4d98-a490-0da7e7b562e9</id>
+      <masked>false</masked>
+      <name>CompanyName</name>
+   </variable>
+   <variable>
+      <defaultValue>'52436'</defaultValue>
+      <description></description>
+      <id>478f4087-de42-44b2-93fa-fb3073e4b3bb</id>
+      <masked>false</masked>
+      <name>ZipCode</name>
+   </variable>
+</TestCaseEntity>

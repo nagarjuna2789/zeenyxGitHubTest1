@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NavigateApplication</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb357406-8e08-4634-bc0b-0915d2878c0b</testCaseGuid>
+   <variable>
+      <defaultValue>'https://www.zeenyx.com/'</defaultValue>
+      <description></description>
+      <id>b81c783e-539b-4335-b0d3-30237b47cee5</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>
